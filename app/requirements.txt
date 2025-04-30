@@ -8,4 +8,6 @@ seaborn
 scikit-learn
 pyodbc
 openpyxl
+plotly
+
 

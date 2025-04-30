@@ -38,7 +38,7 @@ else:
     
     # Add background image - update path as needed
     try:
-        add_bg_from_file("/images/2.jpeg")
+        add_bg_from_file("app/images/2.jpeg")
     except:
         st.warning("Background image not found. Please update the path.")
     
